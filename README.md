@@ -5,11 +5,11 @@ Collection of 3,925,366 tweets and 18,413 online news around the online discussi
 
 #   Datasets
 
-The data collections are available in Mendeley [link].(https://data.mendeley.com/drafts/vhxdgjfjnk)
+The data collections are available in Mendeley [link] (https://data.mendeley.com/drafts/vhxdgjfjnk).
 
 # Code (Python) to read the datasets
 
-We also provide a set of codes written in Python for reading the datasets [link].(https://data.mendeley.com/drafts/vhxdgjfjnk)
+We also provide a set of codes written in Python for reading the datasets [link] (https://data.mendeley.com/drafts/vhxdgjfjnk).
 
 # Code (COLAB) to plot the charts using the data from datasets
 
