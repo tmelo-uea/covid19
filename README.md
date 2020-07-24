@@ -11,6 +11,8 @@ The data collections are available in Mendeley [link](https://data.mendeley.com/
 
 We also provide a set of codes written in Python for reading the datasets [link](https://data.mendeley.com/drafts/vhxdgjfjnk).
 
+# Code (Python) to crawler the tweets on COVID-19 in Brazil
+
 # Code (COLAB) to plot the charts using the data from datasets
 
 We provide a notebook (COLAB) with all chart showed in paper [link](https://github.com/tmelo-uea/covid19/blob/master/charts_data_in_brief_revised.ipynb)
